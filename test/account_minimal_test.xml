@@ -8,11 +8,6 @@
             <field name="bank_account_code_prefix">X1100</field>
         </record>
 
-        <!--
-        Chart of Accounts
-        -->
-
-        <!-- Balance Sheet -->
 
 
         <record id="xfa" model="account.account">
